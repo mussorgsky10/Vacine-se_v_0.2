@@ -1,11 +1,12 @@
 {
   "expo": {
     "name": "Vacine-se_v_0.2",
-    "slug": "Vacine-se_v_0.2",
+    "slug": "Vacine-se_v_0_2",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": ""
   },
-  "name": "Vacine-se_v_0.2"
+  "name": "Vacine-se_v_0_2"
 }
